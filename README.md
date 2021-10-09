@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrDewitt88
 - 👀 I’m interested in things that change the world
-- 🌱 I’m currently learning React.js and Gatsby.js
-- 💞️ I’m looking to collaborate on RIDE ON WAVES dAPPS
+- 🌱 I’m currently into gatsby and react and also learning electron
 - 📫 You can reach me via Gmail - alexander.pajor@gmail.com
 
 <!---
