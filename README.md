@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MrDewitt88
 - 👀 I’m interested in things that change the world
-- 🌱 I’m currently into gatsby and react and also learning electron
+- 🇦🇹 whatch me at the metaverse!
+- 🌱 I’m currently into svelte and electron
 - 📫 You can reach me via Gmail - alexander.pajor@gmail.com
 
 <!---
