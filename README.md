@@ -38,7 +38,7 @@ Currently developing **db_core** - the world's first enterprise AI database with
 - 🌐 [Website] https://theseus.at - Project documentation and demos
 
 ### 📈 **GitHub Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?mrdewitt88=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrdewitt88&show_icons=true&theme=radical)
 
 ### 🏆 **Featured Projects**
 ⭐ Check out my pinned repositories for MLX database innovations!
